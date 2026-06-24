@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/NextJSPages/_next/static/chunks/01xlw8hd842-c.js","/NextJSPages/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto w-full max-w-3xl space-y-6 px-6 py-10","children":[["$","h1",null,{"className":"text-3xl font-bold","children":"Basics: Server Component"}],["$","p",null,{"className":"text-zinc-600 dark:text-zinc-300","children":"Эта страница рендерится на сервере. Здесь можно писать обычный асинхронный код и сразу получать готовый HTML."}],["$","div",null,{"className":"rounded-lg border border-zinc-200 p-4 dark:border-zinc-800","children":[["$","p",null,{"className":"font-medium","children":"Текущее время сервера:"}],["$","p",null,{"className":"mt-2 font-mono","children":"24.06.2026, 11:41:53"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9Y7_YxsrPlLiCV8roKNOc"}
+4:null
